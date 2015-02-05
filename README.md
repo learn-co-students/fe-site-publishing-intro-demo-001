@@ -7,7 +7,7 @@ resources: 0
 
 ## Introduction To Site Publishing
 
-This unit we will explore different methods for publishing you website to a remote hosting server.
+In this unit we will explore different methods for publishing your website to a remote hosting server. This will make your website accessible to people connected to the interenet anywhere in the world.
 
 ## Topics Covered
 
